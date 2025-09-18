@@ -1,6 +1,9 @@
 # 💫 Hi 👋, I'm Ayush Seth
 🚀 Passionate Computer Science Engineer | Java Developer | Tech Enthusiast  
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&color=FFDD00&center=true&vCenter=true&width=700&lines=👋🏻+Welcome+to+my+GitHub+&+Build" />
+
+---
 📧 Email Me: **er.ayushseth@gmail.com**  
 
 - 🌱 **Currently Learning:** Advanced Java Development & Cloud (AWS)  
