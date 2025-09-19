@@ -25,6 +25,7 @@
   <a href="https://instagram.com/ayusseth_" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="48" /></a>
   <a href="https://x.com/ayushG_1" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="48" /></a>
   <a href="mailto:er.ayushseth@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="48" /></a>
+  
 </p>
 
 ---
@@ -107,6 +108,14 @@
   <a href="https://linkedin.com/in/ayuseth" target="_blank">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFAB&height=100&section=footer&text=Ayush+Seth&fontSize=32&animation=twinkling&fontColor=ffffff" />
   </a>
+
+---
+
+## 📜 License
+© 2025 Ayush Seth. All rights reserved.  
+This project is provided for learning purposes only.  
+Unauthorized copying, distribution, or modification of this code is prohibited.
+
 </p>
 
 
