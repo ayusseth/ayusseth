@@ -3,6 +3,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&color=FFDD00&center=true&vCenter=true&width=700&lines=👋🏻+Welcome+to+my+GitHub+&+Build" />
 
+
 ---
 📧 Email Me: **er.ayushseth@gmail.com**  
 
@@ -26,6 +27,24 @@
   <a href="https://x.com/ayushG_1" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="48" /></a>
   <a href="mailto:er.ayushseth@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="48" /></a>
   
+</p>
+
+---
+# 🚀 Portfolio
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=00FFAB&center=true&vCenter=true&width=1000&lines=Explore+My+Portfolio;See+My+Projects;Backend+Development+Journey;Production+Ready+Applications"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://ayush-portfolio-4trz.vercel.app">
+
+<img src="https://img.shields.io/badge/Visit_Portfolio-00FFAB?style=for-the-badge"/>
+
+</a>
+
 </p>
 
 ---
@@ -59,16 +78,12 @@
 ![Notion](https://skillicons.dev/icons?i=notion)
 
 
-
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ayusseth&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
----
-
-# 📊 GitHub Stats
-![](https://nirzak-streak-stats.vercel.app/?user=ayusseth&theme=tokyonight&hide_border=true)<br/>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ayusseth&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ayusseth&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ayusseth&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ---
@@ -117,8 +132,5 @@ This project is provided for learning purposes only.
 Unauthorized copying, distribution, or modification of this code is prohibited.
 
 </p>
-
-
-
 
 
